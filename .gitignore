@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+clip-0.1.0.tgz
+
+# history
+.history
+# local env files
+

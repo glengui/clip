@@ -12,11 +12,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "@ffmpeg/ffmpeg": "0.11.6",
     "@ffmpeg/core": "0.11.0",
+    "@ffmpeg/ffmpeg": "0.11.6",
     "classnames": "^2.3.1",
     "i18next": "^21.6.3",
-    "next": "^13.0.7",
+    "next": "^15.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.0.2",
     "react-hook-form": "^7.22.5",
@@ -32,7 +32,7 @@
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7",
     "eslint-config-prettier": "^8.3.0",
-    "i18next-parser": "^5.3.0",
+    "i18next-parser": "^9.3.0",
     "jest": "^27.4.5",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
